@@ -1,1 +1,5 @@
-foo = abcd
+data:
+  env: config-eureka-dev
+  user: 
+    name: tom
+    password: 12345
